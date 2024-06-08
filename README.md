@@ -4,7 +4,7 @@ Este repositório contém implementações de diversas estruturas de dados em di
 
 ## Estruturas de Dados Implementadas
 
-- [Pilha](./pilha): Implementação de uma pilha em C.
+→ [Pilha](./pilha/pilha.c): Implementação de uma pilha em C.
 - Fila (em breve)
 - Lista Encadeada (em breve)
 - Árvore Binária (em breve)
