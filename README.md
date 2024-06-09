@@ -5,6 +5,7 @@ Este repositório contém implementações de diversas estruturas de dados em di
 ## Estruturas de Dados Implementadas
 
 → [Pilha](./pilha/pilha.c): Implementação de uma pilha em C.
+→ [Pilha](./pilha/pilha.py): Implementação de uma pilha em Python.
 - Fila (em breve)
 - Lista Encadeada (em breve)
 - Árvore Binária (em breve)
