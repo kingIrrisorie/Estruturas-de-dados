@@ -8,6 +8,7 @@ Este repositório contém implementações de diversas estruturas de dados em di
 - → [Pilha](./pilha/pilha.py): Implementação de uma pilha em Python.
 - → [Fila](./fila/pilhacorrigida.c): Implementação de uma fila em C.
 - → [Fila](./fila/fila.py): Implementação de uma fila em Python.
+- → [Busca Binaria](./busca-binaria/busca-binaria.c): Implementação de uma busca binária em C.
 - Lista Encadeada (em breve)
 - Árvore Binária (em breve)
 - Tabela de Hash (em breve)
